@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_correct</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.003,171.248 C0.003,76.819 76.837,0 171.254,0 C265.697,0 342.505,76.819 342.505,171.248 C342.505,265.682 265.693,342.508 171.254,342.508 C76.832,342.508 0.003,265.675 0.003,171.248 Z M225.867,116.637 L145.923,196.585 L116.671,167.323 C111.278,161.932 102.547,161.932 97.155,167.323 C91.761,172.715 91.761,181.446 97.155,186.844 L136.162,225.85 C138.864,228.542 142.38,229.9 145.923,229.9 C149.439,229.9 152.988,228.541 155.681,225.85 L245.371,136.161 C250.764,130.769 250.764,122.038 245.371,116.637 C239.978,111.251 231.248,111.251 225.867,116.637 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_correct">
+            <g id="Page-1" transform="translate(85.000000, 85.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <polygon id="Fill-1" fill="#27B682" mask="url(#mask-2)" points="-4.997 347.508 347.505 347.508 347.505 -5 -4.997 -5"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

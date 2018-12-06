@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_bank-trans-default</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_bank-trans-default" fill="#C0C0C0">
+            <path d="M256,0 L0,85.124 L0,170.992 L60.048,170.992 L60.048,361.895 L30.024,361.895 L30.024,421.943 L0,421.943 L0,511.992 L512,511.992 L512,421.943 L481.976,421.943 L481.976,361.895 L451.952,361.895 L451.952,170.992 L512,170.992 L512,85.124 L256,0 Z M30,106.763 L256,31.616 L482.001,106.763 L482.001,140.992 L30,140.992 L30,106.763 Z M371.888,361.895 L421.952,361.895 L421.952,170.992 L371.888,170.992 L371.888,361.895 Z M170.112,361.895 L341.888,361.895 L341.888,170.992 L170.112,170.992 L170.112,361.895 Z M90.048,361.895 L140.112,361.895 L140.112,170.992 L90.048,170.992 L90.048,361.895 Z M60.024,421.943 L451.976,421.943 L451.976,391.896 L60.024,391.896 L60.024,421.943 Z M30,481.992 L482.001,481.992 L482.001,451.943 L30,451.943 L30,481.992 Z" id="Page-1"></path>
+        </g>
+    </g>
+</svg>
